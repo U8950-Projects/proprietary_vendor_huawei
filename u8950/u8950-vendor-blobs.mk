@@ -80,6 +80,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8950/proprietary/lib/libdzhdr-neon.so:system/lib/libdzhdr-neon.so \
     vendor/huawei/u8950/proprietary/lib/libjni_eglfence.so:system/lib/libjni_eglfence.so \
     vendor/huawei/u8950/proprietary/lib/libjni_filtershow_filters.so:system/lib/libjni_filtershow_filters.so \
-    vendor/huawei/u8950/proprietary/lib/libjni_mosaic.so:system/lib/libjni_mosaic.so \
-    vendor/huawei/u8950/proprietary/app/Orpheus+Music+Player+v3.2.0.apk:system/app/Orpheus+Music+Player+v3.2.0.apk 
+    vendor/huawei/u8950/proprietary/lib/libjni_mosaic.so:system/lib/libjni_mosaic.so 
     
